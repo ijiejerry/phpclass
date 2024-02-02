@@ -122,7 +122,22 @@ font-weight: bold;font-size: 25px;letter-spacing: 0px;
 
          </div>
          <div class="navbar-menu d-flex">
-            <p>link</p>
+            <p>Exe4</p>
+        
+    </div>
+
+    <div class="navbar-menu d-flex">
+            <p>Exe5</p>
+        
+    </div>
+
+    <div class="navbar-menu d-flex">
+            <p>Exe6</p>
+        
+    </div>
+
+    <div class="navbar-menu d-flex">
+            <p>Exe7</p> <p>Exe8</p>
         
     </div>
     <!-- nav menu end  -->
@@ -130,23 +145,13 @@ font-weight: bold;font-size: 25px;letter-spacing: 0px;
     <!-- smaller screen nav menu  -->
     <div class="col-2  d-flex d-sm-flex d-md-flex d-lg-none d-xxl-none"> 
       
-    <!-- smaller screen nav menu end  -->
-    
   </nav>
-<!-- Navigation bar end  -->
-
-<!-- body code start -->
-
-
 <div class="rectangle" >
  
 </div>
 
-
         <!-- forth line of the body start  -->
  
-
-        
 <div class="container">
  
   <div class="header">
