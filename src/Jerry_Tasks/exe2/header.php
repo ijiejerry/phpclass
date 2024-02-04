@@ -112,32 +112,32 @@ font-weight: bold;font-size: 25px;letter-spacing: 0px;
     <!-- nav menu start  -->
     <div class="col-lg-5  col justify-content-evenly  d-none d-sm-none d-md-none d-lg-flex align-content-center">
          <div class="navbar-menu d-flex">
-            <p> Exe1</p>
+            <p> Exercise1</p>
             
          <div class="navbar-menu d-flex" >
-            <p>Exe2</p>
+            <p>Exercise2</p>
          </div>
          <div class="navbar-menu d-flex">
-            <p>Exe3</p>
+            <p>Exercise3</p>
 
          </div>
          <div class="navbar-menu d-flex">
-            <p>Exe4</p>
+            <p>Exercise4</p>
         
     </div>
 
     <div class="navbar-menu d-flex">
-            <p>Exe5</p>
+            <p>Exercise5</p>
         
     </div>
 
     <div class="navbar-menu d-flex">
-            <p>Exe6</p>
+            <p>Exercise6</p>
         
     </div>
 
     <div class="navbar-menu d-flex">
-            <p>Exe7</p> <p>Exe8</p>
+            <p>Exercise7</p> <p>Exercise8</p>
         
     </div>
     <!-- nav menu end  -->

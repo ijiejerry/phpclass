@@ -10,7 +10,7 @@
     <div class="col-4">
       <h1>Contact Us</h1><hr>
       <div class="d-flex">
-        <img src="img/Internet.png" alt="this is a website icon">
+    
         <a href="">www.electrohub.fi</a>
         
         
