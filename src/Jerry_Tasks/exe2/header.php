@@ -110,13 +110,14 @@ font-weight: bold;font-size: 25px;letter-spacing: 0px;
     <!-- search box end -->
 
     <!-- nav menu start  -->
+    
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-        <a class="nav-link" href="new.php">Exercise1</a>
+        <a class="nav-link" href="#">Exercise1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="new.php">Exercise2</a>
+          <a class="nav-link" href="#">Exercise2</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Exercise3</a>
@@ -124,45 +125,18 @@ font-weight: bold;font-size: 25px;letter-spacing: 0px;
         <li class="nav-item">
           <a class="nav-link" href="#">Exercise4</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Exercise5</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Exercise6</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Exercise7</a>
+        </li>
 
 
-
-    <div class="col-lg-5  col justify-content-evenly  d-none d-sm-none d-md-none d-lg-flex align-content-center">
-         <div class="nav-link" href="#">
-            <p> Exercise1</p>
-            
-         <div class="navbar-menu d-flex" >
-            <p>Exercise2</p>
-         </div>
-         <div class="navbar-menu d-flex">
-            <p>Exercise3</p>
-
-         </div>
-         <div class="navbar-menu d-flex">
-            <p>Exercise4</p>
-        
-    </div>
-
-    <div class="navbar-menu d-flex">
-            <p>Exercise5</p>
-        
-    </div>
-
-    <div class="navbar-menu d-flex">
-            <p>Exercise6</p>
-        
-    </div>
-
-    <div class="navbar-menu d-flex">
-            <p>Exercise7</p> <p>Exercise8</p>
-        
-    </div>
-    <!-- nav menu end  -->
-
-    <!-- smaller screen nav menu  -->
-    <div class="col-2  d-flex d-sm-flex d-md-flex d-lg-none d-xxl-none"> 
-      
-  </nav>
+    
 <div class="rectangle" >
  
 </div>

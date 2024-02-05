@@ -34,7 +34,6 @@ switch ($currentMonth) {
         break;
 }
 ?>
-
 <form method="post" action="process1.php">
         Enter a number: <input type="number" name="number"><br>
         <input type="submit" name="submit" value="Generate Table">
