@@ -110,8 +110,25 @@ font-weight: bold;font-size: 25px;letter-spacing: 0px;
     <!-- search box end -->
 
     <!-- nav menu start  -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+        <a class="nav-link" href="new.php">Exercise1</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="new.php">Exercise2</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Exercise3</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Exercise4</a>
+        </li>
+
+
+
     <div class="col-lg-5  col justify-content-evenly  d-none d-sm-none d-md-none d-lg-flex align-content-center">
-         <div class="navbar-menu d-flex">
+         <div class="nav-link" href="#">
             <p> Exercise1</p>
             
          <div class="navbar-menu d-flex" >
