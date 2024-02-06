@@ -92,7 +92,7 @@ font-weight: bold;font-size: 25px;letter-spacing: 0px;
         </div>
     </div>
 
-    <div class="logo col-lg-3 col-5 col-sm-3"> ElectroHub</div> 
+    <div class="logo col-lg-3 col-5 col-sm-3"> Jerry_tasks</div> 
 
     <!-- adding icon form xsm screen size -->
     <div class="col-4 d-flex d-sm-none d-md-none d-lg-none d-xxl-none">

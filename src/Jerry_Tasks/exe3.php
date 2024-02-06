@@ -37,6 +37,7 @@ function get_last_modification_time($filename) {
       Name: <input type="text" name="jerry" required> <br><br>
       Email: <input type="email" name="email" required> <br><br>
       DOB: <input type="date" name="dob"> <br><br>
+      Select color: <input type="color" name="color"> <br><br>
         <input type="submit" value="Submit">
   </form>
 
