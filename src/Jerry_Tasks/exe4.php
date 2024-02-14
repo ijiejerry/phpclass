@@ -4,8 +4,8 @@ include 'exe2/header.php';
 ?>
 
 <form method="post" action="process1.php">
-        Name: <input type="text" name="jerry"><br>
-        Age: <input type="number" name="37"><br>
+        Name: <input type="text" name="jerry" input class="form-control" type="text" placeholder="jerry"><br>
+        Age: <input type="number" name="37" input class="form-control" type="number" placeholder="37"><br>
         <input type="submit" name="submit" value="Check Eligibility">
     </form>
 
